@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.friv15game.com	TRUE	/	FALSE	1999999999	PHPSESSID	90e42243eedee26c81b3b8d479433f00
+
